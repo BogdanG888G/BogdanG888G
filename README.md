@@ -20,7 +20,6 @@ At the moment, I am a first-year student at RUT (MIIT) in the direction of "Comp
 
 ### Socials
 
-<p align="left"> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://discordapp.com/users/938033198007463937/" target="_blank" rel="noreferrer">
 
 ### Badges
 
