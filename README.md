@@ -21,6 +21,10 @@ At the moment, I am a first-year student at RUT (MIIT) in the direction of "Comp
 ### Socials
 
 <p align="left"> <a href="https://discordapp.com/users/938033198007463937/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width = 32></a>
+<a href="https://vk.com/body2006"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/1200px-VK_Compact_Logo_%282021-present%29.svg.png" width = 32></a>
+<a href="https://t.me/G_GBogdanG_G"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" width = 32></a>
+</p>
+
 
 ### Badges
 
