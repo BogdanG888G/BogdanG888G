@@ -15,7 +15,7 @@ At the moment, I am a first-year student at RUT (MIIT) in the direction of "Comp
 ### Skills
 
 <p align="left">
-<a href="[https://discordapp.com/users/938033198007463937/](https://www.python.org/)"> <img src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"width="32" height="32"> </a>
+<a href="https://www.python.org"> <img src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"width="32" height="32"> </a>
 </p>
 
 ### Socials
