@@ -1,7 +1,7 @@
 Hi 👋 My name is Bogdan
 =======================
 
-I am a beginner Python developer
+I am a beginner Python developer (There is not much I can do at the moment, but I want to develop further)
 --------------------------------
 
 At the moment, I am a first-year student at RUT (MIIT) in the direction of "Computer Science and Computer Engineering", profile "IT Services and Data Processing Technologies in Transport".
