@@ -9,7 +9,7 @@ At the moment, I am a second-year student at RUT (MIIT) in the direction of "Com
 * 🌍  I'm based in Moscow / Armavir(hometown)
 * ✉️  You can contact me at [BogdanG888G@yandex.ru](mailto:BogdanG888G@yandex.ru)
 * 🚀  I'm currently working on [Rail_Champ_2.0](https://github.com/BogdanG888G/Rail_Champ_2.0)
-* 🧠  I'm learning Python and other useful tools/libraries/frameworks for wotk with data
+* 🧠  I'm learning Python and other useful tools/libraries/frameworks to work with data effectively
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
