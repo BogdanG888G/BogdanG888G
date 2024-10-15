@@ -47,4 +47,6 @@ At the moment, I am a second-year student at RUT (MIIT) in the direction of "Com
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/BogdanG888GG)
 
-[![Bogdan's GitHub stats](https://github-readme-stats.vercel.app/api?username=BogdanG888G)](https://github.com/anuraghazra/github-readme-stats)
+![Bogdan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BogdanG888G&layout=compact&langs_count=8&hide_border=true)
+<br />
+
