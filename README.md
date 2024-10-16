@@ -1,7 +1,7 @@
 Hi 👋 My name is Bogdan
 =======================
 
-I am a beginner Data Analyst/ML-engineer in a company "Changellenge"
+I am a beginner Data Analyst/ML-engineer
 --------------------------------
 
 At the moment, I am a second-year student at RUT (MIIT) in the direction of "Computer Science and Computer Engineering", profile "IT Services and Data Processing Technologies in Transport" (ВИШ - Высшая Инженерная Школа)
