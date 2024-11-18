@@ -4,7 +4,7 @@ Hi 👋 My name is Bogdan
 I am a beginner Data Analyst/ML-engineer
 --------------------------------
 
-At the moment, I am a third-year student at RUT (MIIT) in the direction of "Computer Science and Computer Engineering", profile "IT Services and Data Processing Technologies in Transport" (ВИШ - Высшая Инженерная Школа)
+At the moment, I am a second-year student at RUT (MIIT) in the direction of "Computer Science and Computer Engineering", profile "IT Services and Data Processing Technologies in Transport" (ВИШ - Высшая Инженерная Школа)
 
 * 🌎  I'm based in Moscow / Armavir (hometown)
 * ✉️  You can contact me at [BogdanG888G@yandex.ru](mailto:BogdanG888G@yandex.ru)
