@@ -4,7 +4,7 @@ Hi 👋 My name is Bogdan
 I am a beginner Data Analyst/ML-engineer
 --------------------------------
 
-At the moment, I am a second-year student at RUT (MIIT) in the direction of "Computer Science and Computer Engineering", profile "IT Services and Data Processing Technologies in Transport" (ВИШ - Высшая Инженерная Школа). Also a student in SHAD (Школа аналитиков данных) student in MTS <img src = 'https://static.mts.ru/mts_rf/images/logo/new/mts_logo_cmyk.png' width = 20>
+At the moment, I am a second-year student at RUT (MIIT) in the direction of "Computer Science and Computer Engineering", profile "IT Services and Data Processing Technologies in Transport" (ВИШ - Высшая Инженерная Школа). Also a student in SHAD (Школа аналитиков данных) in MTS <img src = 'https://static.mts.ru/mts_rf/images/logo/new/mts_logo_cmyk.png' width = 20>
 
 
 * 🌎  I'm based in Moscow / Armavir (hometown)
