@@ -12,23 +12,26 @@ At the moment, I am a second-year student at RUT (MIIT) in the direction of "Com
 * 🧠  I'm learning Python and other useful tools/libraries/frameworks for ML/DL to work with data/models effectively
 
 ### Skills (What I’ve mastered)
+<p>
 
 <p align="left">
 <a href="https://www.python.org"> <img src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"width="32" height="32"> </a>
-<a href='https://pandas.pydata.org/'> <img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s'width='32' height='32'>
-<a href='https://numpy.org/'> <img src = 'https://numpy.org/images/logo.svg'width='32' height='32'>
-<a href='https://matplotlib.org/'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png'width='32' height='32'>
-<a href='https://seaborn.pydata.org/'> <img src = 'https://cdn.worldvectorlogo.com/logos/seaborn-1.svg'width='32' height='32'>
-<a href='https://www.postgresql.org/'> <img src = 'https://www.postgresql.org/media/img/about/press/elephant.png'width='32' height='32'>
-<a href='https://scikit-learn.org/stable/'> <img src = 'https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png'width='62' height='42'>
+<a href='https://pandas.pydata.org/'> <img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s'width='32' height='32'></a>
+<a href='https://numpy.org/'> <img src = 'https://numpy.org/images/logo.svg'width='32' height='32'> </a>
+<a href='https://matplotlib.org/'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png'width='32' height='32'> </a>
+<a href='https://seaborn.pydata.org/'> <img src = 'https://cdn.worldvectorlogo.com/logos/seaborn-1.svg'width='32' height='32'> </a>
+<a href='https://plotly.com/python/'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png'width='100' height='32'> </a>
+<a href='https://www.postgresql.org/'> <img src = 'https://www.postgresql.org/media/img/about/press/elephant.png'width='32' height='32'> </a>
+<a href='https://scikit-learn.org/stable/'> <img src = 'https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png'width='62' height='42'> </a>
 </p>
 
 ### Skills (Where I’m gaining experience)
-<p>
-<a href='https://airflow.apache.org/'> <img src = 'https://static-00.iconduck.com/assets.00/airflow-icon-2048x2048-ptyvisqh.png'width='32' height='32'>
-<a href='https://mlflow.org/'> <img src = 'https://github.com/mlflow-automation.png'width='32' height='32'>
-<a href='https://www.microsoft.com/en-us/power-platform/products/power-bi'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png'width='32' height='32'>
-<a href='https://pytorch.org/'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png'width='102' height='24'>
+<br>
+<a href='https://airflow.apache.org/'> <img src = 'https://static-00.iconduck.com/assets.00/airflow-icon-2048x2048-ptyvisqh.png'width='32' height='32'> </a>
+<a href='https://mlflow.org/'> <img src = 'https://github.com/mlflow-automation.png'width='32' height='32'> </a>
+<a href='https://www.microsoft.com/en-us/power-platform/products/power-bi'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png'width='32' height='32'> </a>
+<a href='https://www.tableau.com/'> <img src = 'https://cdn.worldvectorlogo.com/logos/tableau-software.svg'width='32' height='32'> </a>
+<a href='https://pytorch.org/'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png'width='102' height='24'> </a>
 </p>
 
 ### Socials
