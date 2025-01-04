@@ -33,6 +33,7 @@ At the moment, I am a second-year student at RUT (MIIT) in the direction of "Com
 <a href='https://www.microsoft.com/en-us/power-platform/products/power-bi'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png'width='32' height='32'> </a>
 <a href='https://www.tableau.com/'> <img src = 'https://cdn.worldvectorlogo.com/logos/tableau-software.svg'width='32' height='32'> </a>
 <a href='https://pytorch.org/'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png'width='102' height='24'> </a>
+<a href='https://www.docker.com'> <img src = 'https://www.syssoft.ru/upload/iblock/fa5/tz3ab5xzs2u1p75neyjx1biv6w61mdcp.png'width='102' height='24'> </a>
 </p>
 
 ### Socials
