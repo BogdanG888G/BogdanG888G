@@ -9,7 +9,7 @@ At the moment, I am a second-year student at RUT (MIIT) in the direction of "Com
 
 * 🌎  I'm based in Moscow / Armavir (hometown)
 * ✉️  You can contact me at [BogdanG888G@yandex.ru](mailto:BogdanG888G@yandex.ru)
-* 🚀  I'm currently working at various Kaggle competitions
+* 🚀  I'm currently working at various Kaggle competitions [on this one, to be exact](https://github.com/BogdanG888G/JOJO_stands)
 * 🧠  I'm learning Python and other useful tools/libraries/frameworks for ML/DL to work with data/models effectively
 
 ### Skills (What I’ve mastered)
