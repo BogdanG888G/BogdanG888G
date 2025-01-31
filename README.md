@@ -24,6 +24,7 @@ At the moment, I am a second-year student at RUT (MIIT) in the direction of "Com
 <a href='https://plotly.com/python/'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png'width='100' height='32'> </a>
 <a href='https://www.postgresql.org/'> <img src = 'https://www.postgresql.org/media/img/about/press/elephant.png'width='32' height='32'> </a>
 <a href='https://scikit-learn.org/stable/'> <img src = 'https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png'width='62' height='42'> </a>
+<a href='https://scipy.org/'> <img src = 'https://avatars.mds.yandex.net/i?id=768755843a4c8b0add260c97de14e905_l-5231845-images-thumbs&n=13'width='50' height='30'> </a>
 </p>
 
 ### Skills (Where I’m gaining experience)
@@ -42,7 +43,6 @@ At the moment, I am a second-year student at RUT (MIIT) in the direction of "Com
 
 <p>
 <a href='https://clickhouse.com/'> <img src = 'https://marketplace-assets.digitalocean.com/logos/clickhouse.svg'width='50' height='30'> </a>
-<a href='https://scipy.org/'> <img src = 'https://avatars.mds.yandex.net/i?id=768755843a4c8b0add260c97de14e905_l-5231845-images-thumbs&n=13'width='50' height='30'> </a>
 
 
 ### Socials
