@@ -36,13 +36,14 @@ At the moment, I am a second-year student at RUT (MIIT) in the direction of "Com
 <a href='https://pytorch.org/'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png'width='102' height='24'> </a>
 <a href='https://www.docker.com'> <img src = 'https://www.syssoft.ru/upload/iblock/fa5/tz3ab5xzs2u1p75neyjx1biv6w61mdcp.png'width='31' height='30'> </a>
 <a href='https://superset.apache.org'> <img src = 'https://camo.githubusercontent.com/fad780a61567ecc830bfc9d798e1403bc07dcd708939104bd3e5f97a9846fc8d/68747470733a2f2f7374617469632e74696c646163646e2e636f6d2f74696c64333333312d363433392d343533302d613136362d3339363533303633363533392f53757065727365745f6c6f676f2e706e67'width='50' height='30'> </a>
+<a href='https://clickhouse.com/'> <img src = 'https://marketplace-assets.digitalocean.com/logos/clickhouse.svg'width='50' height='30'> </a>
 </p>
 
 
 ### Skills (What I want to learn)
 
 <p>
-<a href='https://clickhouse.com/'> <img src = 'https://marketplace-assets.digitalocean.com/logos/clickhouse.svg'width='50' height='30'> </a>
+<a href='https://spark.apache.org/docs/latest/api/python/index.html'> <img src = 'https://jade-biz.com/wp-content/uploads/2023/10/pySpark.png'width='60' height='60'> </a>
 
 
 ### Socials
