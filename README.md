@@ -48,7 +48,7 @@ At the moment, I am a second-year student at Russian Transport University (РУ�
 
 <p>
 <a href='https://spark.apache.org/docs/latest/api/python/index.html'> <img src = 'https://jade-biz.com/wp-content/uploads/2023/10/pySpark.png'width='60' height='60'> </a>
-<a href='https://fastapi.tiangolo.com'> <img src = 'https://raw.githubusercontent.com/uriyyo/fastapi-filters/main/logo.png' width='100' height='50'> </a>
+<a href='https://fastapi.tiangolo.com'> <img src = 'https://raw.githubusercontent.com/uriyyo/fastapi-filters/main/logo.png' width='100' height='20'> </a>
 
 
 
