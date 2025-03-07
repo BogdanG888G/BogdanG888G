@@ -1,10 +1,14 @@
-Hi 👋 My name is Bogdan
-=======================
+# Hi 👋 My name is Bogdan
 
-I am a beginner Data Analyst/Product Analyst/Data Scientist
---------------------------------
+
+## I am a beginner Data Analyst/Product Analyst/Data Scientist
+
+
+## **Intern Data-Engineer at Groupe SEB**  <img src = 'https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Groupe_SEB_logo.svg/433px-Groupe_SEB_logo.svg.png' width = 20>
+
 
 At the moment, I am a second-year student at Russian Transport University (РУТ МИИТ) in the direction of "Computer Science and Computer Engineering", profile "IT Services and Data Processing Technologies in Transport" (ВИШ - Высшая Инженерная Школа). Also a student in "Школа аналитиков данных" in MTS <img src = 'https://static.mts.ru/mts_rf/images/logo/new/mts_logo_cmyk.png' width = 20>
+
 
 
 * 🌎  I'm based in Moscow / Armavir (hometown)
