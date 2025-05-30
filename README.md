@@ -70,18 +70,18 @@ At the moment, I am a second-year student at Russian Transport University (РУ�
 
 ### Badges
 <a href="https://github.com/BogdanG888G">
-  <img align="left" width="100%" src="https://github-readme-stats.vercel.app/api?username=BogdanG888G&show_icons=true&count_private=true&hide_border=true&title_color=bb86fc&text_color=e0e0e0&icon_color=bb86fc&bg_color=1a1a2e" />
+  <img align="left" width="90%" src="https://github-readme-stats.vercel.app/api?username=BogdanG888G&show_icons=true&count_private=true&hide_border=true&title_color=bb86fc&text_color=e0e0e0&icon_color=bb86fc&bg_color=1a1a2e" />
 </a>
 
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanG888G&theme=tokyonight&hide_border=true&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BogdanG888G&theme=tokyonight&hide_border=true&ring=bb86fc&fire=bb86fc&currStreakLabel=bb86fc" width="90%" />
 
 <br>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BogdanG888G&theme=tokyonight" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BogdanG888G&theme=tokyonight" width="90%" />
 
 <br>
-<img src="https://leetcard.jacoblin.cool/BogdanG888GG?theme=dark&font=Fira%20Code&ext=activity" alt="Bogdan's Leetcode Stats" width="80%" />
+<img src="https://leetcard.jacoblin.cool/BogdanG888GG?theme=dark&font=Fira%20Code&ext=activity" alt="Bogdan's Leetcode Stats" width="90%" />
 
 <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanG888G&layout=compact&langs_count=8&hide_border=true&title_color=bb86fc&text_color=e0e0e0&bg_color=1a1a2e" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanG888G&layout=compact&langs_count=8&hide_border=true&title_color=bb86fc&text_color=e0e0e0&bg_color=1a1a2e" width="50%" />
 
