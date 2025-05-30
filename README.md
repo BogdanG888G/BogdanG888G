@@ -27,6 +27,11 @@ At the moment, I am a second-year student at Russian Transport University (РУ�
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/statsmodels-008b8b?style=for-the-badge&logo=python&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-ffcc00?style=for-the-badge&logo=cat&logoColor=black)
+![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
+![Superset](https://img.shields.io/badge/Superset-272822?style=for-the-badge&logo=apache&logoColor=white)
 
 
 
@@ -38,7 +43,6 @@ At the moment, I am a second-year student at Russian Transport University (РУ�
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
-![Superset](https://img.shields.io/badge/Superset-272822?style=for-the-badge&logo=apache&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0183cc?style=for-the-badge&logo=mlflow&logoColor=white)
 
 
@@ -49,7 +53,10 @@ At the moment, I am a second-year student at Russian Transport University (РУ�
 
 ![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
+![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
+![Greenplum](https://img.shields.io/badge/Greenplum-005e3a?style=for-the-badge&logo=postgresql&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
 
 ### Socials
@@ -63,11 +70,18 @@ At the moment, I am a second-year student at Russian Transport University (РУ�
 
 ### Badges
 
-<p>
-<a href="http://www.github.com/BogdanG888G"><img src="https://github-readme-stats.vercel.app/api?username=BogdanG888G&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="BogdanG888G's GitHub stats" /></a>
+<p align="center">
+  <a href="https://github.com/BogdanG888G">
+    <img src="https://github-readme-stats.vercel.app/api?username=BogdanG888G&show_icons=true&count_private=true&hide_border=true&title_color=bb86fc&text_color=e0e0e0&icon_color=bb86fc&bg_color=1a1a2e" alt="BogdanG888G's GitHub stats"/>
+  </a>
+</p>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/BogdanG888GG)
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/BogdanG888GG?theme=dark&font=Fira%20Code&ext=activity" alt="Bogdan's Leetcode Stats"/>
+</p>
 
-![Bogdan's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BogdanG888G&layout=compact&langs_count=8&hide_border=true)
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanG888G&layout=compact&langs_count=8&hide_border=true&title_color=bb86fc&text_color=e0e0e0&bg_color=1a1a2e" alt="Bogdan's Language Stats"/>
+</p>
+
 
