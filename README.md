@@ -7,6 +7,7 @@
 ## **Intern SQL-developer at Groupe SEB**  <img src = 'https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Groupe_SEB_logo.svg/433px-Groupe_SEB_logo.svg.png' width = 20>
 
 
+
 At the moment, I am a second-year student at Russian Transport University (РУТ МИИТ) in the direction of "Computer Science and Computer Engineering", profile "IT Services and Data Processing Technologies in Transport" (ВИШ - Высшая Инженерная Школа). Also a student in "Школа аналитиков данных" in MTS <img src = 'https://static.mts.ru/mts_rf/images/logo/new/mts_logo_cmyk.png' width = 20>
 
 
@@ -17,38 +18,37 @@ At the moment, I am a second-year student at Russian Transport University (РУ�
 * 🧠  I'm learning Statistics, BI-systems and Python with other useful tools/libraries/frameworks for ML/DL to work with data/models effectively
 
 ### Skills (What I’ve mastered)
-<p>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-<p align="left">
-<a href="https://www.python.org"> <img src = "https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"width="32" height="32"> </a>
-<a href='https://pandas.pydata.org/'> <img src = 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHZd37oUzVXPHOsl-Ygg5hzYpZs7Djvk-vSw&s'width='32' height='32'></a>
-<a href='https://numpy.org/'> <img src = 'https://numpy.org/images/logo.svg'width='32' height='32'></a>
-<a href='https://matplotlib.org/'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png'width='32' height='32'> </a>
-<a href='https://seaborn.pydata.org/'> <img src = 'https://cdn.worldvectorlogo.com/logos/seaborn-1.svg'width='32' height='32'> </a>
-<a href='https://plotly.com/python/'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Plotly-logo.png/1200px-Plotly-logo.png'width='100' height='32'> </a>
-<a href='https://www.postgresql.org/'> <img src = 'https://www.postgresql.org/media/img/about/press/elephant.png'width='32' height='32'> </a>
-<a href='https://scikit-learn.org/stable/'> <img src = 'https://e7.pngegg.com/pngimages/39/4/png-clipart-logo-scikit-learn-python-github-machine-learning-text-orange.png'width='62' height='42'> </a>
-<a href='https://scipy.org/'> <img src = 'https://avatars.mds.yandex.net/i?id=768755843a4c8b0add260c97de14e905_l-5231845-images-thumbs&n=13'width='50' height='30'> </a>
-</p>
+
+
 
 ### Skills (Where I’m gaining experience)
-<br>
-<a href='https://airflow.apache.org/'> <img src = 'https://static-00.iconduck.com/assets.00/airflow-icon-2048x2048-ptyvisqh.png'width='32' height='32'> </a>
-<a href='https://mlflow.org/'> <img src = 'https://github.com/mlflow-automation.png'width='32' height='32'> </a>
-<a href='https://www.microsoft.com/en-us/power-platform/products/power-bi'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png'width='32' height='32'> </a>
-<a href='https://www.tableau.com/'> <img src = 'https://cdn.worldvectorlogo.com/logos/tableau-software.svg'width='32' height='32'> </a>
-<a href='https://pytorch.org/'> <img src = 'https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png'width='102' height='24'> </a>
-<a href='https://www.docker.com'> <img src = 'https://www.syssoft.ru/upload/iblock/fa5/tz3ab5xzs2u1p75neyjx1biv6w61mdcp.png'width='31' height='30'> </a>
-<a href='https://superset.apache.org'> <img src = 'https://camo.githubusercontent.com/fad780a61567ecc830bfc9d798e1403bc07dcd708939104bd3e5f97a9846fc8d/68747470733a2f2f7374617469632e74696c646163646e2e636f6d2f74696c64333333312d363433392d343533302d613136362d3339363533303633363533392f53757065727365745f6c6f676f2e706e67'width='50' height='30'> </a>
-<a href='https://clickhouse.com/'> <img src = 'https://marketplace-assets.digitalocean.com/logos/clickhouse.svg'width='50' height='30'> </a>
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
+![Superset](https://img.shields.io/badge/Superset-272822?style=for-the-badge&logo=apache&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0183cc?style=for-the-badge&logo=mlflow&logoColor=white)
+
+
 </p>
 
 
 ### Skills (What I want to learn)
 
-<p>
-<a href='https://spark.apache.org/docs/latest/api/python/index.html'> <img src = 'https://jade-biz.com/wp-content/uploads/2023/10/pySpark.png'width='60' height='60'> </a>
-<a href='https://fastapi.tiangolo.com'> <img src = 'https://raw.githubusercontent.com/uriyyo/fastapi-filters/main/logo.png' width='100' height='20'> </a>
+![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 
 
