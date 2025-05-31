@@ -21,6 +21,7 @@ At the moment, I am a second-year student at Russian Transport University (РУ�
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Polars](https://img.shields.io/badge/polars-%23150458.svg?style=for-the-badge&logo=polars&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
@@ -32,6 +33,7 @@ At the moment, I am a second-year student at Russian Transport University (РУ�
 ![CatBoost](https://img.shields.io/badge/CatBoost-ffcc00?style=for-the-badge&logo=cat&logoColor=black)
 ![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
 ![Superset](https://img.shields.io/badge/Superset-272822?style=for-the-badge&logo=apache&logoColor=white)
+![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-272822?style=for-the-badge&logo=Yandex&logoColor=blue)
 
 
 
