@@ -4,7 +4,7 @@
 ## I am a beginner Data Analyst/Product Analyst/Data Scientist
 
 
-## **Intern SQL-developer at Groupe SEB**  <img src = 'https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Groupe_SEB_logo.svg/433px-Groupe_SEB_logo.svg.png' width = 20>
+## **Data-analyst at Kaftal**  <img src = 'https://static.tildacdn.com/tild6335-3864-4837-a230-333832346435/photo.svg' width = 20>
 
 
 
