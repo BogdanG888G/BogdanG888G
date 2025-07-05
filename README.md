@@ -4,7 +4,7 @@
 ## I am a beginner Data Analyst/Product Analyst/Data Scientist
 
 
-## **Data-analyst at Kaftal**  <img src = 'https://static.tildacdn.com/tild6335-3864-4837-a230-333832346435/photo.svg' width = 20>
+## **Data-analyst at Kaftal**  <img src = 'https://static.tildacdn.com/tild6335-3864-4837-a230-333832346435/photo.svg' width = 60>
 
 
 
