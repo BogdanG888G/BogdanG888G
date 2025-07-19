@@ -8,7 +8,7 @@
 
 
 
-At the moment, I am a second-year student at Russian Transport University (РУТ МИИТ) in the direction of "Computer Science and Computer Engineering", profile "IT Services and Data Processing Technologies in Transport" (ВИШ - Высшая Инженерная Школа). Also a student in "Школа аналитиков данных" in MTS <img src = 'https://static.mts.ru/mts_rf/images/logo/new/mts_logo_cmyk.png' width = 20>
+At the moment, I am a third-year student at Russian Transport University (РУТ МИИТ) in the direction of "Computer Science and Computer Engineering", profile "IT Services and Data Processing Technologies in Transport" (ВИШ - Высшая Инженерная Школа). Also a student in "Школа аналитиков данных" in MTS <img src = 'https://static.mts.ru/mts_rf/images/logo/new/mts_logo_cmyk.png' width = 20>
 
 
 
