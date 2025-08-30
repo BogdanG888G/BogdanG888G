@@ -34,17 +34,15 @@ At the moment, I am a third-year student at Russian Transport University (РУТ
 ![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
 ![Superset](https://img.shields.io/badge/Superset-272822?style=for-the-badge&logo=apache&logoColor=white)
 ![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-272822?style=for-the-badge&logo=Yandex&logoColor=blue)
-
-
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
 
 
 ### Skills (Where I’m gaining experience)
 ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-0183cc?style=for-the-badge&logo=mlflow&logoColor=white)
 
 
