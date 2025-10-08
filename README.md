@@ -57,6 +57,7 @@ At the moment, I am a third-year student at Russian Transport University (РУТ
 ![Greenplum](https://img.shields.io/badge/Greenplum-005e3a?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
 ![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Trino](https://img.shields.io/badge/Trino-231F20?style=for-the-badge&logo=trino&logoColor=white)
 
 
 ### Socials
