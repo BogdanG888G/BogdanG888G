@@ -41,7 +41,7 @@ At the moment, I am a third-year student at Russian Transport University (РУТ
 
 ### Skills (Where I’m gaining experience)
 
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white))
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0183cc?style=for-the-badge&logo=mlflow&logoColor=white)
 ![Clearml](https://img.shields.io/badge/Clearml-0183cc?style=for-the-badge&logo=mlflow&logoColor=yellow)
