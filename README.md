@@ -40,11 +40,12 @@ At the moment, I am a third-year student at Russian Transport University (РУТ
 
 
 ### Skills (Where I’m gaining experience)
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white))
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![MLflow](https://img.shields.io/badge/MLflow-0183cc?style=for-the-badge&logo=mlflow&logoColor=white)
-
+![Clearml](https://img.shields.io/badge/Clearml-0183cc?style=for-the-badge&logo=mlflow&logoColor=yellow)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
 
 </p>
 
