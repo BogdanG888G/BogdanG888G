@@ -1,7 +1,7 @@
 # Hi 👋 My name is Bogdan
 
 
-## I am a beginner Data Analyst/Product Analyst/Data Scientist
+## I am a beginner Data Engineer/Product Analyst/Data Scientist
 
 
 ## **Data-analyst at Kaftal**  <img src = 'https://static.tildacdn.com/tild6335-3864-4837-a230-333832346435/photo.svg' width = 60>
