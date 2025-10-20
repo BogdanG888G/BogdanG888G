@@ -1,14 +1,27 @@
 # Hi 👋 My name is Bogdan
 
+## Data Engineer • Product Analyst • Data Scientist
 
-## I am a beginner Data Engineer/Product Analyst/Data Scientist
+### 🔭 Currently working as **Data Analyst at Kaftal**  
+<img src = 'https://static.tildacdn.com/tild6335-3864-4837-a230-333832346435/photo.svg' width = 80 style='vertical-align: middle;'> 
+
+---
+
+### 🎓 Education
+
+**🏫 Russian Transport University (РУТ МИИТ)**  
+*Computer Science & Computer Engineering*  
+IT Services & Data Processing Technologies in Transport  
+*(Высшая Инженерная Школа)*  
+`2022 - 2026 (expected)`
+
+**📊 MTS "Школа аналитиков данных" (ШАД)**    <img src = 'https://static.mts.ru/mts_rf/images/logo/new/mts_logo_cmyk.png' width = 18>
+
+*Data Analytics Program*  
+`2024 - 2025` 🎯 *(1-year intensive program)*    
 
 
-## **Data-analyst at Kaftal**  <img src = 'https://static.tildacdn.com/tild6335-3864-4837-a230-333832346435/photo.svg' width = 60>
-
-
-
-At the moment, I am a third-year student at Russian Transport University (РУТ МИИТ) in the direction of "Computer Science and Computer Engineering", profile "IT Services and Data Processing Technologies in Transport" (ВИШ - Высшая Инженерная Школа). Also a student in "Школа аналитиков данных" in MTS <img src = 'https://static.mts.ru/mts_rf/images/logo/new/mts_logo_cmyk.png' width = 20>
+---
 
 
 
@@ -17,49 +30,29 @@ At the moment, I am a third-year student at Russian Transport University (РУТ
 * 🚀  I'm currently working at various Kaggle competitions [on this one, to be exact](https://github.com/BogdanG888G/JOJO_stands)
 * 🧠  I'm learning Statistics, BI-systems and Python with other useful tools/libraries/frameworks for ML/DL to work with data/models effectively
 
-### Skills (What I’ve mastered)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Polars](https://img.shields.io/badge/polars-%23150458.svg?style=for-the-badge&logo=polars&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Statsmodels](https://img.shields.io/badge/statsmodels-008b8b?style=for-the-badge&logo=python&logoColor=white)
-![CatBoost](https://img.shields.io/badge/CatBoost-ffcc00?style=for-the-badge&logo=cat&logoColor=black)
-![Yandex DataLens](https://img.shields.io/badge/Yandex%20DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=black)
-![Superset](https://img.shields.io/badge/Superset-272822?style=for-the-badge&logo=apache&logoColor=white)
-![Yandex Cloud](https://img.shields.io/badge/Yandex%20Cloud-272822?style=for-the-badge&logo=Yandex&logoColor=blue)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![ClickHouse](https://img.shields.io/badge/ClickHouse-%23FFCC00?style=for-the-badge&logo=clickhouse&logoColor=black)
+### Mastered Technologies
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/Polars-CD7929?style=for-the-badge&logo=polars&logoColor=white" alt="Polars"> <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib"> <img src="https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"> <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"> <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy"> <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"> <img src="https://img.shields.io/badge/Statsmodels-8B0000?style=for-the-badge&logo=python&logoColor=white" alt="Statsmodels"> <img src="https://img.shields.io/badge/CatBoost-FF6A00?style=for-the-badge&logo=catboost&logoColor=white" alt="CatBoost"> <img src="https://img.shields.io/badge/Yandex_DataLens-FFCC00?style=for-the-badge&logo=yandex&logoColor=000" alt="Yandex DataLens"> <img src="https://img.shields.io/badge/Apache_Superset-CF4C0F?style=for-the-badge&logo=apache-superset&logoColor=white" alt="Superset"> <img src="https://img.shields.io/badge/Yandex_Cloud-FF0000?style=for-the-badge&logo=yandex&logoColor=white" alt="Yandex Cloud"> <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000" alt="Power BI"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/ClickHouse-FFCC00?style=for-the-badge&logo=clickhouse&logoColor=000" alt="ClickHouse"> </p>
 
 
-### Skills (Where I’m gaining experience)
+### Currently Learning
 
-![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0183cc?style=for-the-badge&logo=mlflow&logoColor=white)
-![Clearml](https://img.shields.io/badge/Clearml-0183cc?style=for-the-badge&logo=mlflow&logoColor=yellow)
-![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white)
+<p> <img src="https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="Airflow"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"> <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow"> <img src="https://img.shields.io/badge/ClearML-FF6B00?style=for-the-badge&logo=clearml&logoColor=white" alt="Clearml"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Tensorflow"> </p>
 
 </p>
 
 
-### Skills (What I want to learn)
-
-![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Apache Hive](https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)
-![Greenplum](https://img.shields.io/badge/Greenplum-005e3a?style=for-the-badge&logo=postgresql&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Trino](https://img.shields.io/badge/Trino-231F20?style=for-the-badge&logo=trino&logoColor=white)
-
+### Future Goals
+<p>
+  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
+  <img src="https://img.shields.io/badge/Apache_Hive-FDEE21?style=for-the-badge&logo=apache-hive&logoColor=000" alt="Apache Hive">
+  <img src="https://img.shields.io/badge/Greenplum-00A86B?style=for-the-badge&logo=greenplum&logoColor=white" alt="Greenplum">
+  <img src="https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=apache-hadoop&logoColor=000" alt="Hadoop">
+  <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka">
+  <img src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white" alt="Trino">
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="Amazon S3">
+</p>
 
 ### Socials
 
