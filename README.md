@@ -52,6 +52,7 @@ IT Services & Data Processing Technologies in Transport
   <img src="https://img.shields.io/badge/Trino-DD00A1?style=for-the-badge&logo=trino&logoColor=white" alt="Trino">
   <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt">
   <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white" alt="Amazon S3">
+  <img src="https://img.shields.io/badge/Streamlit-A?style=for-the-badge&logo=streamlit&logoColor=white&color=red" alt="Streamlit">
 </p>
 
 ### Socials
