@@ -55,6 +55,7 @@ IT Services & Data Processing Technologies in Transport
   <img src="https://img.shields.io/badge/Streamlit-A?style=for-the-badge&logo=streamlit&logoColor=white&color=red" alt="Streamlit">
   <img src="https://img.shields.io/badge/DuckDB-black?style=for-the-badge&logo=duckdb&logoColor=yellow&color=white" alt="DuckDB">
   <img src="https://img.shields.io/badge/LangChain-ffffff?logo=langchain&logoColor=green" alt="LangChain">
+  <img src="https://img.shields.io/badge/Grafana-black?style=for-the-badge&logo=grafana&logoColor=orange&color=black" alt="Grafana"> 
 </p>
 
 ### Socials
