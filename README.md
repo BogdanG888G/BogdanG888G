@@ -1,6 +1,6 @@
 # Hi 👋 My name is Bogdan
 
-## Data Engineer • Product Analyst • Data Scientist
+## Data Engineer • Data Analyst • DWH Developer
 
 ### 🔭 Currently working as **Data Analyst at Kaftal**  
 <img src = 'https://static.tildacdn.com/tild6335-3864-4837-a230-333832346435/photo.svg' width = 80 style='vertical-align: middle;'> 
