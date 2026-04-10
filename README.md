@@ -13,7 +13,7 @@
 *Computer Science & Computer Engineering*  
 IT Services & Data Processing Technologies in Transport  
 *(Высшая Инженерная Школа)*  
-`2022 - 2026 (expected)`
+`2023 - 2027 (expected)`
 
 **📊 MTS "Школа аналитиков данных" (ШАД)**    <img src = 'https://static.mts.ru/mts_rf/images/logo/new/mts_logo_cmyk.png' width = 18>
 
